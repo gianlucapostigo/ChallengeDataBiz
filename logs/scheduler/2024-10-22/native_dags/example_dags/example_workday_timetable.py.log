@@ -992,3 +992,416 @@
 [2024-10-22T01:12:49.698+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:12:49.697+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-10-22T01:12:49.846+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:12:49.845+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
 [2024-10-22T01:12:49.883+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.257 seconds
+[2024-10-22T01:13:20.047+0000] {processor.py:186} INFO - Started process (PID=13122) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:20.049+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:13:20.052+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:20.051+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:20.066+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:20.111+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:20.111+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:13:20.510+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:20.509+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:13:20.628+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.593 seconds
+[2024-10-22T01:13:51.318+0000] {processor.py:186} INFO - Started process (PID=13185) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:51.320+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:13:51.325+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:51.321+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:51.334+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:13:51.371+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:51.370+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:13:51.514+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:13:51.514+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:13:51.550+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.240 seconds
+[2024-10-22T01:14:21.948+0000] {processor.py:186} INFO - Started process (PID=13248) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:21.951+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:14:21.954+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:21.953+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:21.969+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:22.005+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:22.005+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:14:22.179+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:22.179+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:14:22.239+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.309 seconds
+[2024-10-22T01:14:52.926+0000] {processor.py:186} INFO - Started process (PID=13312) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:52.928+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:14:52.930+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:52.929+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:52.944+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:14:53.002+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:53.001+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:14:53.261+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:14:53.260+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:14:53.304+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.390 seconds
+[2024-10-22T01:15:23.394+0000] {processor.py:186} INFO - Started process (PID=13375) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:23.396+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:15:23.397+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:23.397+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:23.405+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:23.430+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:23.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:15:23.512+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:23.511+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:15:23.534+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.148 seconds
+[2024-10-22T01:15:54.167+0000] {processor.py:186} INFO - Started process (PID=13438) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:54.168+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:15:54.170+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:54.170+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:54.178+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:15:54.212+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:54.211+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:15:54.353+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:15:54.352+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:15:54.385+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.226 seconds
+[2024-10-22T01:16:24.724+0000] {processor.py:186} INFO - Started process (PID=13501) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:24.725+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:16:24.727+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:24.727+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:24.739+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:24.767+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:24.766+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:16:24.907+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:24.906+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:16:24.974+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.262 seconds
+[2024-10-22T01:16:55.104+0000] {processor.py:186} INFO - Started process (PID=13564) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:55.106+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:16:55.108+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:55.107+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:55.115+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:16:55.145+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:55.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:16:55.217+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:16:55.216+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:16:55.244+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.149 seconds
+[2024-10-22T01:17:25.827+0000] {processor.py:186} INFO - Started process (PID=13627) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:25.829+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:17:25.832+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:25.831+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:25.841+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:25.882+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:25.881+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:17:26.000+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:26.000+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:17:26.027+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.210 seconds
+[2024-10-22T01:17:56.760+0000] {processor.py:186} INFO - Started process (PID=13690) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:56.761+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:17:56.763+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:56.762+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:56.769+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:17:56.795+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:56.794+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:17:56.878+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:17:56.878+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:17:56.903+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.151 seconds
+[2024-10-22T01:18:27.601+0000] {processor.py:186} INFO - Started process (PID=13753) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:27.603+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:18:27.605+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:27.604+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:27.612+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:27.646+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:27.646+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:18:27.744+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:27.744+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:18:27.769+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.182 seconds
+[2024-10-22T01:18:57.969+0000] {processor.py:186} INFO - Started process (PID=13816) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:57.970+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:18:57.972+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:57.971+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:57.979+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:18:58.005+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:58.005+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:18:58.087+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:18:58.087+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:18:58.112+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.150 seconds
+[2024-10-22T01:19:29.110+0000] {processor.py:186} INFO - Started process (PID=13879) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:19:29.112+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:19:29.122+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:19:29.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:19:29.141+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:19:29.214+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:19:29.213+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:19:29.401+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:19:29.400+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:19:29.449+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.354 seconds
+[2024-10-22T01:20:00.382+0000] {processor.py:186} INFO - Started process (PID=13942) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:00.383+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:20:00.386+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:00.385+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:00.393+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:00.425+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:00.425+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:20:00.555+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:00.554+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:20:00.596+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.223 seconds
+[2024-10-22T01:20:31.029+0000] {processor.py:186} INFO - Started process (PID=14005) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:31.030+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:20:31.032+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:31.031+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:31.039+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:20:31.065+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:31.065+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:20:31.142+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:20:31.141+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:20:31.167+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.149 seconds
+[2024-10-22T01:21:01.588+0000] {processor.py:186} INFO - Started process (PID=14068) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:01.589+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:21:01.592+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:01.591+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:01.602+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:01.634+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:01.633+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:21:01.717+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:01.717+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:21:01.746+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.167 seconds
+[2024-10-22T01:21:32.021+0000] {processor.py:186} INFO - Started process (PID=14131) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:32.023+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:21:32.026+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:32.025+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:32.033+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:21:32.062+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:32.061+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:21:32.150+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:21:32.150+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:21:32.175+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.162 seconds
+[2024-10-22T01:22:02.490+0000] {processor.py:186} INFO - Started process (PID=14194) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:02.500+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:22:02.503+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:02.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:02.515+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:02.553+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:02.552+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:22:02.645+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:02.644+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:22:02.670+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.191 seconds
+[2024-10-22T01:22:32.821+0000] {processor.py:186} INFO - Started process (PID=14257) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:32.824+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:22:32.826+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:32.826+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:32.834+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:22:32.865+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:32.864+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:22:32.979+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:22:32.978+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:22:33.015+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.201 seconds
+[2024-10-22T01:23:03.324+0000] {processor.py:186} INFO - Started process (PID=14320) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:03.326+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:23:03.327+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:03.327+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:03.333+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:03.358+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:03.358+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:23:03.432+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:03.432+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:23:03.460+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.143 seconds
+[2024-10-22T01:23:33.724+0000] {processor.py:186} INFO - Started process (PID=14383) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:33.725+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:23:33.728+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:33.727+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:33.737+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:23:33.776+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:33.776+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:23:33.867+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:23:33.867+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:23:33.902+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.191 seconds
+[2024-10-22T01:24:03.994+0000] {processor.py:186} INFO - Started process (PID=14446) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:03.996+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:24:03.998+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:03.998+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:04.010+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:04.039+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:04.039+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:24:04.133+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:04.133+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:24:04.165+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.179 seconds
+[2024-10-22T01:24:34.430+0000] {processor.py:186} INFO - Started process (PID=14509) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:34.431+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:24:34.433+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:34.433+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:34.447+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:24:34.482+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:34.481+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:24:34.572+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:24:34.572+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:24:34.601+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.184 seconds
+[2024-10-22T01:25:04.828+0000] {processor.py:186} INFO - Started process (PID=14572) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:04.829+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:25:04.831+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:04.830+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:04.837+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:04.868+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:04.868+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:25:04.965+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:04.965+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:25:04.988+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.169 seconds
+[2024-10-22T01:25:36.100+0000] {processor.py:186} INFO - Started process (PID=14641) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:36.101+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:25:36.103+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:36.103+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:36.112+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:25:36.141+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:36.141+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:25:36.231+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:25:36.231+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:25:36.258+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.167 seconds
+[2024-10-22T01:26:06.569+0000] {processor.py:186} INFO - Started process (PID=14704) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:06.571+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:26:06.572+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:06.572+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:06.581+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:06.616+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:06.615+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:26:06.722+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:06.721+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:26:06.751+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.190 seconds
+[2024-10-22T01:26:37.883+0000] {processor.py:186} INFO - Started process (PID=14767) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:37.885+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:26:37.886+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:37.886+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:37.894+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:26:37.925+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:37.925+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:26:38.048+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:26:38.047+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:26:38.073+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.199 seconds
+[2024-10-22T01:27:09.399+0000] {processor.py:186} INFO - Started process (PID=14830) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:09.401+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:27:09.403+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:09.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:09.410+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:09.444+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:09.444+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:27:09.577+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:09.577+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:27:09.611+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.229 seconds
+[2024-10-22T01:27:40.044+0000] {processor.py:186} INFO - Started process (PID=14893) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:40.046+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:27:40.048+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:40.048+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:40.056+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:27:40.082+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:40.082+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:27:40.158+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:27:40.158+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:27:40.186+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.151 seconds
+[2024-10-22T01:28:10.292+0000] {processor.py:186} INFO - Started process (PID=14956) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:10.293+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:28:10.295+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:10.295+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:10.303+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:10.329+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:10.329+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:28:10.419+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:10.418+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:28:10.444+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.159 seconds
+[2024-10-22T01:28:41.404+0000] {processor.py:186} INFO - Started process (PID=15019) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:41.405+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:28:41.407+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:41.407+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:41.413+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:28:41.439+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:41.439+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:28:41.521+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:28:41.520+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:28:41.546+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.150 seconds
+[2024-10-22T01:29:11.754+0000] {processor.py:186} INFO - Started process (PID=15084) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:11.755+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:29:11.757+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:11.757+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:11.765+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:11.791+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:11.790+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:29:11.868+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:11.867+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:29:11.891+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.144 seconds
+[2024-10-22T01:29:42.676+0000] {processor.py:186} INFO - Started process (PID=15146) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:42.678+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:29:42.680+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:42.680+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:42.687+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:29:42.723+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:42.722+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:29:42.843+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:29:42.842+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:29:42.869+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.200 seconds
+[2024-10-22T01:30:13.751+0000] {processor.py:186} INFO - Started process (PID=15209) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:13.752+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:30:13.754+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:13.753+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:13.762+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:13.786+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:13.786+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:30:13.864+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:13.864+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:30:13.888+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.145 seconds
+[2024-10-22T01:30:44.544+0000] {processor.py:186} INFO - Started process (PID=15273) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:44.545+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:30:44.547+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:44.547+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:44.555+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:30:44.579+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:44.578+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:30:44.661+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:30:44.660+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:30:44.687+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.151 seconds
+[2024-10-22T01:31:16.128+0000] {processor.py:186} INFO - Started process (PID=15336) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:16.130+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:31:16.132+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:16.131+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:16.143+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:16.172+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:16.172+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:31:16.266+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:16.266+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:31:16.290+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.173 seconds
+[2024-10-22T01:31:46.447+0000] {processor.py:186} INFO - Started process (PID=15399) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:46.449+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:31:46.451+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:46.450+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:46.467+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:31:46.537+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:46.536+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:31:46.630+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:31:46.630+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:31:46.669+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.237 seconds
+[2024-10-22T01:32:17.650+0000] {processor.py:186} INFO - Started process (PID=15463) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:17.651+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:32:17.653+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:17.652+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:17.659+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:17.685+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:17.685+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:32:17.762+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:17.762+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:32:17.787+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.145 seconds
+[2024-10-22T01:32:48.848+0000] {processor.py:186} INFO - Started process (PID=15526) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:48.850+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:32:48.852+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:48.851+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:48.860+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:32:48.889+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:48.889+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:32:48.974+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:32:48.973+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:32:49.001+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.168 seconds
+[2024-10-22T01:33:19.244+0000] {processor.py:186} INFO - Started process (PID=15590) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:19.246+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:33:19.248+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:19.247+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:19.255+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:19.283+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:19.283+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:33:19.376+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:19.375+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:33:19.409+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.172 seconds
+[2024-10-22T01:33:49.808+0000] {processor.py:186} INFO - Started process (PID=15652) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:49.811+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:33:49.812+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:49.812+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:49.819+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:33:49.845+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:49.845+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:33:49.920+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:33:49.920+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:33:49.946+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.147 seconds
+[2024-10-22T01:34:20.982+0000] {processor.py:186} INFO - Started process (PID=15715) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:20.984+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:34:20.986+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:20.985+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:20.995+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:21.017+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:21.016+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:34:21.101+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:21.101+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:34:21.122+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.150 seconds
+[2024-10-22T01:34:51.727+0000] {processor.py:186} INFO - Started process (PID=15778) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:51.728+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:34:51.730+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:51.729+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:51.739+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:34:51.766+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:51.766+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:34:51.854+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:34:51.853+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:34:51.882+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.164 seconds
+[2024-10-22T01:35:22.527+0000] {processor.py:186} INFO - Started process (PID=15842) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:22.529+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:35:22.530+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:22.530+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:22.537+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:22.570+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:22.569+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:35:22.671+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:22.670+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:35:22.698+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.179 seconds
+[2024-10-22T01:35:54.489+0000] {processor.py:186} INFO - Started process (PID=15905) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:54.491+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:35:54.492+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:54.492+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:54.504+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:35:54.531+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:54.530+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:35:54.615+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:35:54.615+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:35:54.643+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.163 seconds
+[2024-10-22T01:36:26.488+0000] {processor.py:186} INFO - Started process (PID=15968) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:26.489+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:36:26.491+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:26.491+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:26.499+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:26.526+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:26.526+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:36:26.601+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:26.601+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:36:26.627+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.146 seconds
+[2024-10-22T01:36:58.846+0000] {processor.py:186} INFO - Started process (PID=16034) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:58.848+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:36:58.849+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:58.849+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:58.856+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:36:58.883+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:58.883+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:36:58.963+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:36:58.962+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:36:58.988+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.151 seconds
+[2024-10-22T01:37:29.263+0000] {processor.py:186} INFO - Started process (PID=16097) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:29.264+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:37:29.267+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:37:29.266+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:29.274+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:29.306+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:37:29.306+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:37:29.403+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:37:29.403+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:37:29.430+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.177 seconds
+[2024-10-22T01:37:59.923+0000] {processor.py:186} INFO - Started process (PID=16160) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:59.925+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:37:59.927+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:37:59.926+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:59.935+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:37:59.965+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:37:59.964+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:38:00.086+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:38:00.086+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:38:00.114+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.201 seconds
+[2024-10-22T01:38:30.320+0000] {processor.py:186} INFO - Started process (PID=16223) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:38:30.321+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:38:30.323+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:38:30.322+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:38:30.329+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:38:30.353+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:38:30.353+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:38:30.423+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:38:30.423+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:38:30.448+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.136 seconds
+[2024-10-22T01:39:00.864+0000] {processor.py:186} INFO - Started process (PID=16286) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:00.866+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:39:00.868+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:00.868+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:00.876+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:00.900+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:00.900+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:39:00.975+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:00.975+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:39:00.999+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.145 seconds
+[2024-10-22T01:39:31.567+0000] {processor.py:186} INFO - Started process (PID=16349) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:31.568+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:39:31.570+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:31.569+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:31.576+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:39:31.601+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:31.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:39:31.687+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:39:31.687+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:39:31.711+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.150 seconds
+[2024-10-22T01:40:03.198+0000] {processor.py:186} INFO - Started process (PID=16412) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:03.200+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:40:03.203+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:03.202+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:03.213+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:03.247+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:03.246+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:40:03.378+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:03.378+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:40:03.407+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.217 seconds
+[2024-10-22T01:40:33.518+0000] {processor.py:186} INFO - Started process (PID=16475) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:33.519+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:40:33.521+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:33.521+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:33.530+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:40:33.553+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:33.552+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:40:33.619+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:40:33.619+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:40:33.640+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.129 seconds
+[2024-10-22T01:41:05.210+0000] {processor.py:186} INFO - Started process (PID=16538) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:05.212+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:41:05.214+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:05.213+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:05.225+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:05.253+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:05.253+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:41:05.346+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:05.346+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:41:05.370+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.171 seconds
+[2024-10-22T01:41:43.632+0000] {processor.py:186} INFO - Started process (PID=16608) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:43.634+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:41:43.646+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:43.645+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:43.665+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:41:43.717+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:43.717+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:41:43.965+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:41:43.964+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:41:44.636+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 1.019 seconds
+[2024-10-22T01:42:15.390+0000] {processor.py:186} INFO - Started process (PID=16671) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:15.391+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:42:15.394+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:15.393+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:15.404+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:15.435+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:15.435+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:42:15.517+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:15.517+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:42:15.543+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.164 seconds
+[2024-10-22T01:42:45.882+0000] {processor.py:186} INFO - Started process (PID=16734) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:45.884+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:42:45.886+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:45.886+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:45.893+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:42:45.917+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:45.916+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:42:46.006+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:42:46.006+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:42:46.033+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.159 seconds
+[2024-10-22T01:43:16.089+0000] {processor.py:186} INFO - Started process (PID=16798) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:43:16.090+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-22T01:43:16.092+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:43:16.092+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:43:16.100+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-22T01:43:16.126+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:43:16.126+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T01:43:16.207+0000] {logging_mixin.py:190} INFO - [2024-10-22T01:43:16.206+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2024-10-22T01:43:16.232+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.152 seconds
